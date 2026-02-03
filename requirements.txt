@@ -1,0 +1,5 @@
+gradio==4.16.0
+chromadb==0.4.22
+sentence-transformers==2.3.1
+numpy>=1.26.0
+plotly==5.18.0
